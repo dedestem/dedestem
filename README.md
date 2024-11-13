@@ -13,6 +13,13 @@
     </a>
     <br>
     <br>
+    <h2>Information</h2>
+    Timzone:
+    <p>October-March: GMT+1 (CET), March-October: GMT+2 (CEST)  |  Amsterdam</p>
+    <span> - </span><a href="mailto:contact@davidnet.net">Contact me</a>
+    <br>
+    <br>
+    <br>
     <br>
     <h1>My API's</h1>
     <a href="https://github.com/dedestem/StateAPI">
@@ -32,9 +39,18 @@
     </a>
     <br>
     <br>
+    <h1>My backend</h1>
+    <a href="https://github.com/dedestem/DNBackend">
+      <img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dedestem&repo=dnbackend&theme=codeSTACKr" alt="dfinder Repo">
+    </a>
+    <br>
+    <br>
     <br>
     <h1>Links</h1>
     <span> - </span><a href="https://davidnet.net/Dashboard">Davidnet - Dashboard</a>
+    <br>
+    <br>
+    <span> - </span><a href="https://davidnet.net/Docs">Davidnet - Docs</a>
     <br>
     <br>
     <span> - </span><a href="https://stats.uptimerobot.com/uyIu1MvHRa">Uptimerobot</a>
