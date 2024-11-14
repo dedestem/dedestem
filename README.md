@@ -19,7 +19,7 @@
     <span> - </span><a href="mailto:contact@davidnet.net">Contact me</a>
     <br>
     <br>
-<span> - </span><p>DM me on discord: dedestem</p>
+    <span> - </span><p>DM me on discord: dedestem</p>
     <br>
     <br>
     <br>
